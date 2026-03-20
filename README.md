@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashkumawat03/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/yashkumawat03/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/yashkumawat03/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/yashkumawat03/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashkumawat03/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashkumawat03/Leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/yashkumawat03/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/yashkumawat03/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/yashkumawat03/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/yashkumawat03/Leetcode/tree/master/0136-single-number) |
