@@ -48,17 +48,14 @@ public:
                 cnt2--;
             }
         }
-        int count1 = 0;
+        int count1 = 0, count2 = 0;
         for(int i=0;i<n;i++){
             if(nums[i]==ele1) count1++;
-        }
-        if(count1>n/3) ans.push_back(ele1);
-
-        int count2 = 0;
-        for(int i=0;i<n;i++){
             if(nums[i]==ele2) count2++;
         }
-        if(count2>n/3) ans.push_back(ele2);
+        int min = (int)n/3 + 1;
+        if(count1>=min) ans.push_back(ele1);
+        if(count2>=min) ans.push_back(ele2);
 
         return ans;
     }
